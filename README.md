@@ -19,3 +19,5 @@ Actividad CRUD FastAPI
 9. Creación de enrutadores.
 10. Creación del archivo requirements.txt.
 11. Configuración del archivo conexion_bd.py.
+12. Creación del modelo Transacción.
+13. Implementación del CRUD de transacciones.
