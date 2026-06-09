@@ -17,3 +17,5 @@ Actividad CRUD FastAPI
 7. Implementación de endpoints para facturas.
 8. Organización del proyecto en carpetas.
 9. Creación de enrutadores.
+10. Creación del archivo requirements.txt.
+11. Configuración del archivo conexion_bd.py.

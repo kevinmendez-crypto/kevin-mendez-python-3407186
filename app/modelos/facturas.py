@@ -1,4 +1,5 @@
 from pydantic import BaseModel
+from app.modelos.transacciones import Transaccion
 
 
 class FacturaBase(BaseModel):
@@ -16,3 +17,4 @@ class FacturaEditar(FacturaBase):
 
 class Factura(FacturaBase):
     id: int | None = None
+    transacciones: list[Transaccion] = []
